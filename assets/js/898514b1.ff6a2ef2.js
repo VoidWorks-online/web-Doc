@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvoidworks=self.webpackChunkvoidworks||[]).push([[67],{9187:e=>{e.exports=JSON.parse('{"tags":[{"label":"hardware","permalink":"/docs/tags/hardware","count":2},{"label":"stm32","permalink":"/docs/tags/stm-32","count":2},{"label":"beginner","permalink":"/docs/tags/beginner","count":2}]}')}}]);
