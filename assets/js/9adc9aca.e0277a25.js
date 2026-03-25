@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvoidworks=self.webpackChunkvoidworks||[]).push([[2164],{9952:(e,i,s)=>{s.r(i),s.d(i,{default:()=>r});s(6540);var t=s(4848);function r(){return(0,t.jsx)("div",{style:{height:"100vh"},children:(0,t.jsx)("iframe",{src:"/Tool/pi-display.html",title:"Pi Display",style:{width:"100%",height:"100%",border:"none"}})})}}}]);
